@@ -16,7 +16,6 @@ function setup() {
 
 function draw() {
   clear();
-  
   rect(0, 0, width, height);
 }
 
